@@ -2241,32 +2241,32 @@ STARTCHAR bar
 ENCODING 124
 SWIDTH 1142 0
 DWIDTH 16 0
-BBX 2 24 6 -4
+BBX 1 24 7 -4
 BITMAP
-c0
-c0
-c0
-c0
-c0
-c0
-c0
-c0
-c0
-c0
-c0
-c0
-c0
-c0
-c0
-c0
-c0
-c0
-c0
-c0
-c0
-c0
-c0
-c0
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
 ENDCHAR
 STARTCHAR braceright
 ENCODING 125
